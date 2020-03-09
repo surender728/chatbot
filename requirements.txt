@@ -22,6 +22,7 @@ Flask-Compress==1.4.0
 future==0.18.2
 gast==0.2.2
 grpcio==1.27.2
+gunicorn==20.0.4
 h5py==2.10.0
 helpdev==0.6.10
 html5lib==0.9999999
